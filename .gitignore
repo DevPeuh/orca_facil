@@ -108,6 +108,5 @@ CLAUDE.md
 GEMINI.md
 /.github/copilot-instructions.md
 
-# Hospedagem
-/.openai/*
-!/.openai/hosting.json
+# Configurações locais de hospedagem
+/.openai/

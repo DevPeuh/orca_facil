@@ -78,8 +78,6 @@ O projeto usa as convenções de rotas do Next.js por meio do Vinext.
 - `worker/index.ts`: entrada do Cloudflare Worker.
 - `docs/images/`: capturas de tela usadas neste README.
 
-O plugin de hospedagem exige `.openai/hosting.json`. O arquivo contém apenas as configurações vazias de banco e armazenamento, sem credenciais.
-
 ## Uso
 
 1. Preencha os dados do prestador em **Meu negócio**.
