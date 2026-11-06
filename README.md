@@ -42,7 +42,6 @@ O layout reorganiza a navegação e os indicadores para telas menores.
 | Cloudflare Workers | Runtime da aplicação compilada |
 
 ## Instalação
-
 Requer **Node.js 22.13 ou superior** e **npm**. Na pasta do projeto, execute:
 
 ```bash
