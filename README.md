@@ -17,7 +17,6 @@ A versão atual funciona com armazenamento no navegador, sem cadastro de conta o
 - **Meu negócio:** dados do prestador e exportação ou restauração de backup JSON.
 
 ## Telas
-
 ### Dados do negócio e backup
 
 Os dados do prestador são usados no documento entregue ao cliente. Nesta tela também ficam as opções de exportar e restaurar os cadastros.
