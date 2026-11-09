@@ -7,6 +7,7 @@ A versão atual funciona com armazenamento no navegador, sem cadastro de conta o
 ![Painel do OrçaFácil com o total orçado no mês, indicadores de status e os últimos orçamentos](docs/images/visao-geral.png)
 
 ## Funcionalidades
+
 - **Visão geral:** total orçado no mês, propostas aceitas, recusadas e aguardando resposta.
 - **Clientes:** cadastro, busca, edição e exclusão de contatos.
 - **Serviços e produtos:** catálogo com descrição, unidade e preço para reutilizar nos orçamentos.
